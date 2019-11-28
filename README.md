@@ -3,7 +3,6 @@ Stress and applied elasticity (ME300) midterm project
 
 Overall idea: Use computational methods to do two-dimensional stress analysis.
 
-Prompt:
 Given:  Infinite plate with a circular hole of radius a. 
         \sigma_e = von Mises yield condition, s = applied distributed load
 Task 1: Plot \frac{\sigma_e}{s} vs. \frac{r}{a} for 1<\frac{r}{a}<4, \theta=0,30,60,90.
